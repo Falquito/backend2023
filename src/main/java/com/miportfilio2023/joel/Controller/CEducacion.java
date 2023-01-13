@@ -25,7 +25,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/educacion")
-@CrossOrigin(origins = "https://portfolio-frontend-7d3b4.web.app/")
+@CrossOrigin(origins = {"https://portfolio-frontend-7d3b4.web.app","https://localhost:4200"})
 /**
  *
  * @author Joel Miguel Serrudo

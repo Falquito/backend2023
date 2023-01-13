@@ -20,14 +20,14 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@CrossOrigin(origins = "https://portfolio-frontend-7d3b4.web.app/")
+@CrossOrigin(origins = {"https://portfolio-frontend-7d3b4.web.app","https://localhost:4200"})
 /**
  *
  * @author Joel Miguel Serrudo
  */
 public class PersonaController {
     @Autowired InPersonaService ipersonaService;
-    @GetMapping("personovich/traer")
+    @GetMapping("/personovich/traer")
     public List<Personita> getPersonita(){
         return (List<Personita>)this.ipersonaService.getPersonita();
     }
