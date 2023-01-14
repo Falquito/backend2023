@@ -25,7 +25,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("explab")
-@CrossOrigin(origins = {"https://portfolio-frontend-7d3b4.web.app","https://localhost:4200"})
+@CrossOrigin(origins ="https://portfolio-frontend-7d3b4.web.app")
 /**
  *
  * @author Joel Miguel Serrudo

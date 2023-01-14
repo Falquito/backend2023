@@ -13,7 +13,6 @@ C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backe
 C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\JoelApplication.java
 C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\Entity\Experiencia.java
 C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\Service\SExperiencia.java
-C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\Interface\InPersonaService.java
 C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\Security\Service\UserDetailsImpl.java
 C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\Security\jwt\JwtTokenFilterr.java
 C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\Dto\dtoHys.java
@@ -27,6 +26,7 @@ C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backe
 C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\Security\Dto\JwtDto.java
 C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\Security\Controller\Mensaje.java
 C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\Security\jwt\JwtEntryPoint.java
+C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\Dto\dtoPersonita.java
 C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\Security\MainSecurity.java
 C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\Security\Dto\LoginUsuario.java
 C:\Users\Joel Miguel Serrudo\Documents\Argentina Programa\PFinal\Portfolio\Backend\src\main\java\com\miportfilio2023\joel\Controller\CEducacion.java

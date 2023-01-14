@@ -5,40 +5,49 @@
 package com.miportfilio2023.joel.Service;
 
 import com.miportfilio2023.joel.Entity.Personita;
-import com.miportfilio2023.joel.Interface.InPersonaService;
 import com.miportfilio2023.joel.repository.InPersonaRepository;
 import java.util.List;
+import java.util.Optional;
+import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
+@Transactional
 /**
  *
  * @author Joel Miguel Serrudo
  */
-public class ImplePersonaService implements InPersonaService{
-    @Autowired InPersonaRepository ipersonaRepository;
-
-    @Override   
-    public List<Personita> getPersonita() {
-        List<Personita> personita=ipersonaRepository.findAll();
-        return personita;
-    }
-
-    @Override
-    public void savePersonita(Personita personita) {
-       ipersonaRepository.save(personita);
-    }
-
-    @Override
-    public void deletePersonita(Long id) {
-        ipersonaRepository.deleteById(id);
-    }
-
-    @Override
-    public Personita findPersonita(Long id) {
-        Personita personita = ipersonaRepository.findById(id).orElse(null);
-        return personita;
+public class ImplePersonaService{
+    @Autowired
+    InPersonaRepository ipersonaRepository;
+    
+    public List<Personita> list(){
+        return ipersonaRepository.findAll();
     }
     
+    public Optional<Personita> getOne(int id){
+        return ipersonaRepository.findById(id);
+    }
+    
+    
+    public Optional<Personita> getByNombre(String nombre){
+        return ipersonaRepository.findByNombre(nombre);
+    }
+    
+    public void save(Personita personita){
+        ipersonaRepository.save(personita);
+    }
+    
+    public void delete(int id){
+        ipersonaRepository.deleteById(id);
+    }
+    
+    public boolean existsById(int id){
+        return ipersonaRepository.existsById(id);
+    }
+    
+    public boolean existsByNombre(String nombre){
+        return ipersonaRepository.existsByNombre(nombre);
+    }
 }
