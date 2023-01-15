@@ -10,9 +10,11 @@ C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Entity\Experiencia.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Interface\InPersonaService.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Controller\CHys.java
+C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Entity\Proyectos.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\repository\RExperiencia.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Service\Shys.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Controller\CExperiencia.java
+C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Controller\CProyectos.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Security\Enums\RolNombre.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Controller\PersonaController.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Security\Service\UserDetailsImpl.java
@@ -20,6 +22,7 @@ C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Security\Repository\IRolRepository.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Security\Entity\Usuario.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Security\Entity\UsuarioPrincipal.java
+C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\repository\RProyectos.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Security\Dto\LoginUsuario.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Dto\dtoEducacion.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Dto\dtoHys.java
@@ -33,7 +36,9 @@ C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Controller\CEducacion.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Security\jwt\JwtProvider.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\repository\InPersonaRepository.java
+C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Service\Sproyectos.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\JoelApplication.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\repository\REducacion.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\repository\Rhys.java
+C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Dto\dtoProyectos.java
 C:\Users\Joel Miguel Serrudo\Desktop\backkend funcionando\backend2023-f17ff91973abaaac015718c8be0dbcf8851a8ec5\src\main\java\com\miportfilio2023\joel\Security\Repository\iUsuarioRepository.java

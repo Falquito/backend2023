@@ -1,9 +1,11 @@
 com\miportfilio2023\joel\Security\Dto\JwtDto.class
+com\miportfilio2023\joel\Dto\dtoProyectos.class
 com\miportfilio2023\joel\repository\RExperiencia.class
 com\miportfilio2023\joel\Service\ImplePersonaService.class
 com\miportfilio2023\joel\repository\InPersonaRepository.class
 com\miportfilio2023\joel\Security\Service\RolService.class
 com\miportfilio2023\joel\Service\SExperiencia.class
+com\miportfilio2023\joel\Controller\CProyectos.class
 com\miportfilio2023\joel\Security\Dto\NuevoUsuario.class
 com\miportfilio2023\joel\Security\Entity\UsuarioPrincipal.class
 com\miportfilio2023\joel\Entity\hys.class
@@ -19,6 +21,7 @@ com\miportfilio2023\joel\Security\Controller\Mensaje.class
 com\miportfilio2023\joel\Security\jwt\JwtProvider.class
 com\miportfilio2023\joel\Security\MainSecurity.class
 com\miportfilio2023\joel\Controller\CExperiencia.class
+com\miportfilio2023\joel\repository\RProyectos.class
 com\miportfilio2023\joel\Entity\Experiencia.class
 com\miportfilio2023\joel\Dto\dtoHys.class
 com\miportfilio2023\joel\Entity\Personita.class
@@ -31,7 +34,9 @@ com\miportfilio2023\joel\Security\Service\UserDetailsImpl.class
 com\miportfilio2023\joel\Security\jwt\JwtEntryPoint.class
 com\miportfilio2023\joel\Dto\dtoEducacion.class
 com\miportfilio2023\joel\Security\Repository\iUsuarioRepository.class
+com\miportfilio2023\joel\Entity\Proyectos.class
 com\miportfilio2023\joel\JoelApplication.class
+com\miportfilio2023\joel\Service\Sproyectos.class
 com\miportfilio2023\joel\Security\Repository\IRolRepository.class
 com\miportfilio2023\joel\Security\Controller\AuthController.class
 com\miportfilio2023\joel\Service\Shys.class
