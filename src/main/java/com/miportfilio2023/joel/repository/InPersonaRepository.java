@@ -5,7 +5,6 @@
 package com.miportfilio2023.joel.repository;
 
 import com.miportfilio2023.joel.Entity.Personita;
-import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
@@ -14,7 +13,6 @@ import org.springframework.stereotype.Repository;
  * @author Joel Miguel Serrudo
  */
 @Repository
-public interface InPersonaRepository extends JpaRepository<Personita,Integer>{
-    public Optional<Personita> findByNombre(String nombre);
-    public boolean existsByNombre(String nombre);
+public interface InPersonaRepository extends JpaRepository<Personita,Long>{
+    
 }

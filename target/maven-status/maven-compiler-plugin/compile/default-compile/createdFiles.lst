@@ -7,6 +7,7 @@ com\miportfilio2023\joel\Service\SExperiencia.class
 com\miportfilio2023\joel\Security\Dto\NuevoUsuario.class
 com\miportfilio2023\joel\Security\Entity\UsuarioPrincipal.class
 com\miportfilio2023\joel\Entity\hys.class
+com\miportfilio2023\joel\Interface\InPersonaService.class
 com\miportfilio2023\joel\repository\Rhys.class
 com\miportfilio2023\joel\Controller\CEducacion.class
 com\miportfilio2023\joel\Security\Dto\LoginUsuario.class
@@ -20,7 +21,6 @@ com\miportfilio2023\joel\Security\MainSecurity.class
 com\miportfilio2023\joel\Controller\CExperiencia.class
 com\miportfilio2023\joel\Entity\Experiencia.class
 com\miportfilio2023\joel\Dto\dtoHys.class
-com\miportfilio2023\joel\Dto\dtoPersonita.class
 com\miportfilio2023\joel\Entity\Personita.class
 com\miportfilio2023\joel\Security\jwt\JwtTokenFilterr.class
 com\miportfilio2023\joel\Entity\Educacion.class
